@@ -1,0 +1,6 @@
+{
+  "couchbase": {
+    "server": "27.254.38.71:8091",
+    "bucket": "soccersim"
+  }
+}
